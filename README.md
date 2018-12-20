@@ -1,3 +1,7 @@
+##Assignment application
+
+This application will help you choose the style of New Year's party.
+
 ## Available Scripts
 
 In the project directory, you can run:
