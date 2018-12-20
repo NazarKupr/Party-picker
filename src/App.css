@@ -1,0 +1,28 @@
+.App-logo {
+  animation: spin infinite 8s linear;
+  height: 100px;
+}
+
+.App-header {
+  background-image: url("svg/xmas.gif");
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+
+.App-content {
+  color: #FF9900;
+  font-size: 28px;
+}
+.App-intro {
+  font-size: large;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
