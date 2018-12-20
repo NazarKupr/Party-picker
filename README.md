@@ -1,4 +1,5 @@
-#Party Picker
+# Party Picker
+
 This application will help you choose the style of New Year's party.
 
 ## Available Scripts
